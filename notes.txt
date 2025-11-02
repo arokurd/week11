@@ -1,2 +1,4 @@
 Aro’s Lab 11 notes.
 Git is straightforward.
+
+Added a third line locally.
