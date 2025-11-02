@@ -1,4 +1,10 @@
 Aro’s Lab 11 notes.
+<<<<<<< HEAD
 This is the version from the MAIN branch (REBASE path).
 - Main RB bullet A
 - Main RB bullet B
+=======
+This is the version from the feature branch (REBASE path).
+- Branch RB bullet 1
+- Branch RB bullet 2
+>>>>>>> a43cd1f (Feature (rebase): rewrite notes.txt on branch)
