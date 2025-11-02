@@ -1,4 +1,10 @@
 Aro’s Lab 11 notes.
+<<<<<<< HEAD
 This is the version from the MAIN branch (merge path).
 - Main bullet A
 - Main bullet B
+=======
+This is the version from the feature branch (merge path).
+- Branch bullet 1
+- Branch bullet 2
+>>>>>>> feature/summary-merge
